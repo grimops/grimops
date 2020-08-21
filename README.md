@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**GRIM-OPS/GRIM-OPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GRIM-OPS
+## Languages:
+```
+printf("C\n");
+print("Python")
+std::out << "C++" << std::endl;
+echo bash
+```
+## Learning:
+```
+Currently learning in depth C and really focusing on socket programming in C
+```
+## Working on:
+```
+I'm making termchat2.0 because the last one was trash
+and this one will use AES
+```
