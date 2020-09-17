@@ -8,6 +8,6 @@ __________        .__                         _________    __                __
 ```
 ## Technology:
 ![](https://img.shields.io/badge/ArchLinux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6666)
-![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6666)
-![](https://img.shields.io/badge/Scripting-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6666)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6666)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6666)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6666)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6666)
