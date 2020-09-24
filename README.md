@@ -8,6 +8,6 @@ __________        .__                         _________    __                __
 ```
 <summary>Languages</summary>
 
-+C
-+Python
-+Ruby
++ C
++ Python
++ Ruby
