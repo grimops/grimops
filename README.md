@@ -11,5 +11,7 @@ __________        .__                         _________    __                __
 
 + C
 + Python
++ Bash
 + Ruby
+
 </details>
