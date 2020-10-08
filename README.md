@@ -6,6 +6,8 @@ __________        .__                         _________    __                __
  |______  / |__|  |__|___|  (____  /___|  / /_______  /\__|  |\____/____  > |__|  |__|   \____/|__|_|  /
         \/                \/     \/     \/          \/\______|          \/                           \/ 
 ```
+## Code Wars
+<a href="https://www.codewars.com/users/brinansjostrom"><img src="https://www.codewars.com/users/edfloreshz/badges/large"/><a/>
 <details>
 <summary>Languages</summary>
 
