@@ -7,7 +7,7 @@ __________        .__                         _________    __                __
         \/                \/     \/     \/          \/\______|          \/                           \/ 
 ```
 ## Code Wars
-<a href="https://www.codewars.com/users/brinansjostrom"><img src="https://www.codewars.com/users/brinansjostrom/badges/large"/><a/>
+<a href="https://www.codewars.com/users/brinansjostrom"><img src="https://www.codewars.com/users/brinansjostrom/badges/large"/></a>
 
 ## What I use
 <details>
