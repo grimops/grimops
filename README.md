@@ -30,7 +30,7 @@ __________        .__                         _________    __                __
 <details>
 <summary>Environment</summary>
 
-+ i3wm config
++ <a href="https://github.com/BrinanSjostrom/dot_files/blob/main/i3wm/config">i3wm config</a>
 + Termite config
 + Vimrc
 </details>
