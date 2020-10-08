@@ -11,8 +11,8 @@ __________        .__                         _________    __                __
 ## What I use
 <details>
 <summary>Languages</summary>
-+ C
-+ Python
-+ Bash
-+ Ruby
+ + C
+ + Python
+ + Bash
+ + Ruby
 </details>
