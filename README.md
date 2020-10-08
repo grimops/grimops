@@ -6,13 +6,11 @@ __________        .__                         _________    __                __
  |______  / |__|  |__|___|  (____  /___|  / /_______  /\__|  |\____/____  > |__|  |__|   \____/|__|_|  /
         \/                \/     \/     \/          \/\______|          \/                           \/ 
 ```
-## Code Wars
-
 ## What I use
 <details>
 <summary>Languages</summary>
- + C
- + Python
- + Bash
- + Ruby
++ C
++ Python
++ Bash
++ Ruby
 </details>
