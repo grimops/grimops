@@ -8,12 +8,26 @@ __________        .__                         _________    __                __
 ```
 ## Code Wars
 <a href="https://www.codewars.com/users/brinansjostrom"><img src="https://www.codewars.com/users/brinansjostrom/badges/large"/><a/>
+
+## What I use
 <details>
 <summary>Languages</summary>
-
 + C
 + Python
 + Bash
 + Ruby
+</details>
 
+<details>
+<summary>Operating Systems</summary>
++ Linux
++ Windows
+</details>
+
+## Projects
+<details>
+<summary>Area's of interest</summary>
++ CLI Tools
++ Cyber Security
++ Exploitation Writing
 </details>
