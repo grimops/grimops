@@ -18,3 +18,17 @@ __________        .__                         _________    __                __
 + Bash
 + Ruby
 </details>
+
+<details>
+<summary>Dev Tools</summary>
+
++ Vim or Sublime
++ gcc compiler
++ Ranger
+</details>
+
+<details>
+<summary></summary>
+
++ <a href="https://www.google.com">i3wm config</a>
+</details>
