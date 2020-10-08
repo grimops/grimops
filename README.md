@@ -19,15 +19,14 @@ __________        .__                         _________    __                __
 </details>
 
 <details>
-<summary>Operating Systems</summary>
-+ Linux
-+ Windows
+<summary>Dev Tools</summary>
++ Vim or Sublime
++ gcc
++ gdb
 </details>
 
-## Projects
 <details>
-<summary>Areas of interest</summary>
-+ CLI-Tools
-+ Cyber-Security
-+ Exploitation-Writing
+<summary>Operating Systems</summary>
++ Arch Linux
++ Kali 2020
 </details>
