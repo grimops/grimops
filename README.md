@@ -27,7 +27,7 @@ __________        .__                         _________    __                __
 ## Projects
 <details>
 <summary>Areas of interest</summary>
-+ CLI Tools
-+ Cyber Security
-+ Exploitation Writing
++ CLI-Tools
++ Cyber-Security
++ Exploitation-Writing
 </details>
