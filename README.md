@@ -28,7 +28,9 @@ __________        .__                         _________    __                __
 </details>
 
 <details>
-<summary></summary>
+<summary>Environment</summary>
 
-+ <a href="https://www.google.com">i3wm config</a>
++ i3wm config
++ Termite config
++ Vimrc
 </details>
