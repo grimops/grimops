@@ -17,16 +17,3 @@ __________        .__                         _________    __                __
 + Bash
 + Ruby
 </details>
-
-<details>
-<summary>Dev Tools</summary>
-+ Vim or Sublime
-+ gcc
-+ gdb
-</details>
-
-<details>
-<summary>Operating Systems</summary>
-+ Arch Linux
-+ Kali 2020
-</details>
