@@ -1,13 +1,13 @@
 ```
-__________        .__                         _________    __                __                         
-\______   \_______|__| ____ _____    ____    /   _____/   |__| ____  _______/  |________  ____   _____  
- |    |  _/\_  __ \  |/    \\__  \  /    \   \_____  \    |  |/  _ \/  ___/\   __\_  __ \/  _ \ /     \ 
- |    |   \ |  | \/  |   |  \/ __ \|   |  \  /        \   |  (  <_> )___ \  |  |  |  | \(  <_> )  Y Y  \
- |______  / |__|  |__|___|  (____  /___|  / /_______  /\__|  |\____/____  > |__|  |__|   \____/|__|_|  /
-        \/                \/     \/     \/          \/\______|          \/                           \/ 
+  ________        .__            ________                  
+ /  _____/_______ |__|  _____    \_____  \  ______   ______
+/   \  ___\_  __ \|  | /     \    /   |   \ \____ \ /  ___/
+\    \_\  \|  | \/|  ||  Y Y  \  /    |    \|  |_> >\___ \ 
+ \______  /|__|   |__||__|_|  /  \_______  /|   __//____  >
+        \/                  \/           \/ |__|        \/ 
 ```
 ## Code Wars
-<a href="https://www.codewars.com/users/brinansjostrom"><img src="https://www.codewars.com/users/brinansjostrom/badges/large"/><a/>
+<a href="https://www.codewars.com/users/grimops"><img src="https://www.codewars.com/users/grimops/badges/large"/><a/>
  
 ## What I use
 <details>
@@ -30,6 +30,6 @@ __________        .__                         _________    __                __
 <details>
 <summary>Environment</summary>
 
-+ <a href="https://github.com/BrinanSjostrom/dot_files/blob/main/i3wm/config">i3wm config</a>
-+ <a href="https://github.com/BrinanSjostrom/dot_files/blob/main/termite/config">Termite config</a>
++ <a href="https://github.com/grimops/dot_files/blob/main/i3wm/config">i3wm config</a>
++ <a href="https://github.com/grimops/dot_files/blob/main/termite/config">Termite config</a>
 </details>
