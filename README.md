@@ -33,3 +33,4 @@
 + <a href="https://github.com/grimops/dot_files/blob/main/i3wm/config">i3wm config</a>
 + <a href="https://github.com/grimops/dot_files/blob/main/termite/config">Termite config</a>
 </details>
+
