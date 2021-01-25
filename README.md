@@ -13,7 +13,7 @@
 <details>
 <summary>Languages</summary>
 
-+ C
++ C/C++
 + Python
 + Bash
 + Ruby
