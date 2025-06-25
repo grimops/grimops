@@ -1,13 +1,6 @@
 ```
-  ________        .__            ________                  
- /  _____/_______ |__|  _____    \_____  \  ______   ______
-/   \  ___\_  __ \|  | /     \    /   |   \ \____ \ /  ___/
-\    \_\  \|  | \/|  ||  Y Y  \  /    |    \|  |_> >\___ \ 
- \______  /|__|   |__||__|_|  /  \_______  /|   __//____  >
-        \/                  \/           \/ |__|        \/ 
+### Brinan Sjostrom
 ```
-## Code Wars
-<a href="https://www.codewars.com/users/grimops"><img src="https://www.codewars.com/users/grimops/badges/large"/><a/>
  
 ## What I use
 <details>
