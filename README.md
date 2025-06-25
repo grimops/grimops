@@ -1,6 +1,4 @@
-```
 ### Brinan Sjostrom
-```
  
 ## What I use
 <details>
